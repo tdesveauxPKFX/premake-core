@@ -1645,6 +1645,7 @@
 		allowed = {
 			{ "clang", "Clang (clang)" },
 			{ "gcc", "GNU GCC (gcc/g++)" },
+			{ "mingw", "MinGW GCC (gcc/g++)" },
 		}
 	}
 
